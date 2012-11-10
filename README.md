@@ -1,5 +1,8 @@
 HelloJhon
 =========
+[![Build Status](http://www.robil.org:8080/job/HelloJhon/badge/icon)](http://www.robil.org:8080/job/HelloJhon/)<br>
+
+
 
 Hello Jhon
 20:43
